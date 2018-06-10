@@ -1,0 +1,7 @@
+apiVersion: 0.0.1
+kind: ksonnet.io/parts
+name: nordservice
+description: >
+  Nordstrom Enterprise service
+author: Raadesh
+license: Apache 2.0
